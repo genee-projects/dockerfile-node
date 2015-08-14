@@ -14,8 +14,4 @@ node-gyp 编译使用工具
 
 npm 部分依赖包使用 Github 进行托管
 
-### libzmq
-
-大部分 zmq 依赖.
-
 注: 该基础依赖包仅供 Genee 使用, 非通用版本.
